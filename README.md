@@ -12,6 +12,7 @@ The prediction was made on the impact of expenses in advertising on Sales
 The Root Mean Squared Error was 3.468
 
 **Test Model** 
+
 ![](test.JPG)
 
 **Trained Model**
