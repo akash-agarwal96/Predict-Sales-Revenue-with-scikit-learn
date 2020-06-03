@@ -1,4 +1,4 @@
-**Predict Sales Revenue with scikit-learn
+## Predict Sales Revenue with scikit-learn
 
 Implemented an linear regression model of an advertising dataset using sklearn
 
