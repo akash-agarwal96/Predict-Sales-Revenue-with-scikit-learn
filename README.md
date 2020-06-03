@@ -1,4 +1,4 @@
-**Simple Linear Regression Model**
+**Predict Sales Revenue with scikit-learn
 
 Implemented an linear regression model of an advertising dataset using sklearn
 
